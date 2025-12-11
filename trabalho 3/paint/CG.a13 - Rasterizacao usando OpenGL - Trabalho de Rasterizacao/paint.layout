@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="paint.cpp" Top="Yes" Tabpos="1" TopLine="1028">
+			<Cursor Line="1058" Column="35"/>
+		</File>
+		<File Name="glut_text.h" Top="No" Tabpos="2" TopLine="52">
+			<Cursor Line="77" Column="1"/>
+			<Selection Line="1" Column="1"/>
+		</File>
+	</Files>
+</Layout>

@@ -1,0 +1,17 @@
+# Material da Moeda, corrigido para ser compatível com glm.c
+
+newmtl Material.001
+
+# Cor difusa (Kd) - A cor base do objeto. Adicionando para evitar crashes.
+Kd 1.0 1.0 1.0
+
+# Cor especular (Ks) - A cor do brilho.
+Ks 0.5 0.5 0.5
+
+# "Shininess" (Ns) - Concentração do brilho.
+Ns 62.5
+
+# Textura de cor (map_Kd). Verifique se 'Coin2_BaseColor.ppm' está na pasta 'models'.
+map_Kd Coin2_BaseColor.ppm
+
+# A linha map_Bump foi REMOVIDA pois não é suportada.
